@@ -11,6 +11,7 @@ const App = () => {
       { text: 'Study CSS!', id: 'g3' },
       { text: 'Study MongoDB!', id: 'g4' },
       { text: 'Study Nodejs!', id: 'g5' },
+      { text: 'Reading Atomic habits book!', id: 'g6' },
   ]);
 
   const addGoalHandler = enteredText => {
